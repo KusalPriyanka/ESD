@@ -19,3 +19,23 @@ Calcium	2%	Iron	22%
 Vitamin D	0%	Vitamin B-6	0%
 Cobalamin	1%	Magnesium	7%
 
+Burger - Nutrition Facts
+
+Amount Per - 100g
+
+Total Fat 14 g	21%
+Saturated fat 5 g	25%
+Polyunsaturated fat 0.4 g	
+Monounsaturated fat 5 g	
+Trans fat regulation 0.8 g	
+Cholesterol 47 mg	15%
+Sodium 414 mg	17%
+Potassium 226 mg	6%
+Total Carbohydrate 24 g	8%
+Dietary fiber 0.9 g	3%
+Sugar 4.2 g	
+Protein 17 g	34%
+Vitamin A	0%	Vitamin C	0%
+Calcium	10%	Iron	16%
+Vitamin B-6	10%	Cobalamin	23%
+Magnesium	5%		
