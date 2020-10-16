@@ -1,1 +1,21 @@
+Doughnut - Nutrition Facts
+
+Amount Per - 100g
+
+Total Fat 25 g	38%
+Saturated fat 13 g	65%
+Polyunsaturated fat 2g	
+Monounsaturated fat 9g	
+Cholesterol 19 mg	6%
+Sodium 326 mg	13%
+Potassium 201 mg	5%
+Total Carbohydrate 51 g	17%
+Dietary fiber 1.9 g	7%
+Sugar 27 g	
+Protein 4.9 g	9%
+Caffeine 2 mg	
+Vitamin A	0%	Vitamin C	2%
+Calcium	2%	Iron	22%
+Vitamin D	0%	Vitamin B-6	0%
+Cobalamin	1%	Magnesium	7%
 
