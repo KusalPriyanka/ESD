@@ -61,7 +61,6 @@ Magnesium	5%
 Pizza - 100g
 
 Calories 266
-% Daily Value*
 Total Fat 10 g	15%
 Saturated fat 4.5 g	22%
 Trans fat regulation 0.2 g	
@@ -97,7 +96,6 @@ Iron	6%	Vitamin D	1%
 Vitamin B-6	5%	Cobalamin	14%
 Magnesium	8%
 
-
 Pasta - Nutrition Facts
 
 Amount Per - 100g
@@ -115,3 +113,25 @@ Vitamin C	0%	Calcium	0%
 Iron	6%	Vitamin D	0%
 Vitamin B-6	0%	Cobalamin	1%
 Magnesium	4%	
+
+Kitkat - Nutrition Facts
+
+Amount Per - 100g
+
+Calories 518
+Total Fat 26 g	40%
+Saturated fat 18 g	90%
+Trans fat regulation 0.1 g	
+Cholesterol 11 mg	3%
+Sodium 54 mg	2%
+Potassium 231 mg	6%
+Total Carbohydrate 65 g	21%
+Dietary fiber 1 g	4%
+Sugar 49 g	
+Protein 7 g	14%
+Caffeine 14 mg	
+Vitamin C	0%	Calcium	12%
+Iron	5%	Vitamin D	0%
+Vitamin B-6	0%	Cobalamin	10%
+Magnesium	9%	
+
