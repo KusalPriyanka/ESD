@@ -96,7 +96,6 @@ Iron	6%	Vitamin D	1%
 Vitamin B-6	5%	Cobalamin	14%
 Magnesium	8%
 
-
 French Fries - Nutrition Facts
 
 Amount Per - 100g
@@ -116,6 +115,24 @@ Vitamin C	7%	Calcium	1%
 Iron	4%	Vitamin D	0%
 Vitamin B-6	20%	Cobalamin	0%
 Magnesium	8%
+
+Pasta - Nutrition Facts
+
+Amount Per - 100g
+
+Calories 131
+% Daily Value*
+Total Fat 1.1 g	1%
+Saturated fat 0.2 g	1%
+Cholesterol 33 mg	11%
+Sodium 6 mg	0%
+Potassium 24 mg	0%
+Total Carbohydrate 25 g	8%
+Protein 5 g	10%
+Vitamin C	0%	Calcium	0%
+Iron	6%	Vitamin D	0%
+Vitamin B-6	0%	Cobalamin	1%
+Magnesium	4%	
 
 Kitkat - Nutrition Facts
 
