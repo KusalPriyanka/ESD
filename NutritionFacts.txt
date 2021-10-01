@@ -155,6 +155,7 @@ Iron	5%	Vitamin D	0%
 Vitamin B-6	0%	Cobalamin	10%
 Magnesium	9%	
 
+
 Snickers - Nutrition Facts
 
 Amount Per - 100g
@@ -171,3 +172,25 @@ Sugar 47 g
 Protein 7 g	14%
 Vitamin C	0%	Calcium	9%
 Iron	3%
+
+Iced coffee - Nutrition Facts
+
+Amount Per - 100g
+
+Calories 0
+Total Fat 0 g	0%
+Saturated fat 0 g	0%
+Trans fat regulation 0 g	
+Cholesterol 0 mg	0%
+Sodium 2 mg	0%
+Potassium 49 mg	1%
+Total Carbohydrate 0 g	0%
+Dietary fiber 0 g	0%
+Sugar 0 g	
+Protein 0.1 g	0%
+Caffeine 40 mg	
+Vitamin C	0%	Calcium	0%
+Iron	0%	Vitamin D	0%
+Vitamin B-6	0%	Cobalamin	0%
+Magnesium	0%		
+
