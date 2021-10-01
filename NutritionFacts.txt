@@ -194,3 +194,21 @@ Iron	0%	Vitamin D	0%
 Vitamin B-6	0%	Cobalamin	0%
 Magnesium	0%		
 
+Eggs - Nutrition Facts
+
+Amount Per - 100g
+
+Calories 155
+Total Fat 11 g	16%
+Saturated fat 3.3 g	16%
+Cholesterol 373 mg	124%
+Sodium 124 mg	5%
+Potassium 126 mg	3%
+Total Carbohydrate 1.1 g	0%
+Dietary fiber 0 g	0%
+Sugar 1.1 g	
+Protein 13 g	26%
+Vitamin C	0%	Calcium	5%
+Iron	6%	Vitamin D	21%
+Vitamin B-6	5%	Cobalamin	18%
+Magnesium	2%
