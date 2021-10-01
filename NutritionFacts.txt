@@ -231,3 +231,25 @@ Vitamin C	10%	Calcium	11%
 Iron	28%	Vitamin D	0%
 Vitamin B-6	25%	Cobalamin	0%
 Magnesium	44%	
+
+
+Carrot - Nutrition Facts
+
+Amount Per 100 grams
+
+Calories 41
+% Daily Value*
+Total Fat 0.2 g	0%
+Saturated fat 0 g	0%
+Trans fat regulation 0 g	
+Cholesterol 0 mg	0%
+Sodium 69 mg	2%
+Potassium 320 mg	9%
+Total Carbohydrate 10 g	3%
+Dietary fiber 2.8 g	11%
+Sugar 4.7 g	
+Protein 0.9 g	1%
+Vitamin C	9%	Calcium	3%
+Iron	1%	Vitamin D	0%
+Vitamin B-6	5%	Cobalamin	0%
+Magnesium	3%	
