@@ -212,3 +212,22 @@ Vitamin C	0%	Calcium	5%
 Iron	6%	Vitamin D	21%
 Vitamin B-6	5%	Cobalamin	18%
 Magnesium	2%
+
+Beans - Nutrition Facts
+
+Amount Per 100 grams
+
+Calories 347
+Total Fat 1.2 g	1%
+Saturated fat 0.2 g	1%
+Cholesterol 0 mg	0%
+Sodium 12 mg	0%
+Potassium 1,393 mg	39%
+Total Carbohydrate 63 g	21%
+Dietary fiber 16 g	64%
+Sugar 2.1 g	
+Protein 21 g	42%
+Vitamin C	10%	Calcium	11%
+Iron	28%	Vitamin D	0%
+Vitamin B-6	25%	Cobalamin	0%
+Magnesium	44%	
