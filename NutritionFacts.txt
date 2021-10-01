@@ -39,3 +39,21 @@ Vitamin A	0%	Vitamin C	0%
 Calcium	10%	Iron	16%
 Vitamin B-6	10%	Cobalamin	23%
 Magnesium	5%		
+
+Chicken - Nutrition Facts
+
+Amount Per - 100g
+
+Total Fat 14 g	21%
+Saturated fat 3.8 g	19%
+Cholesterol 88 mg	29%
+Sodium 82 mg	3%
+Potassium 223 mg	6%
+Total Carbohydrate 0 g	0%
+Dietary fiber 0 g	0%
+Sugar 0 g	
+Protein 27 g	54%
+Vitamin C	0%	Calcium	1%
+Iron	7%	Vitamin D	0%
+Vitamin B-6	20%	Cobalamin	5%
+Magnesium	5%	
