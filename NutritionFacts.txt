@@ -273,3 +273,24 @@ Vitamin C	22%	Calcium	1%
 Iron	1%	Vitamin D	0%
 Vitamin B-6	5%	Cobalamin	0%
 Magnesium	2%
+
+Beef - Nutrition Facts
+
+Amount Per 100 grams
+
+Calories 250
+Total Fat 15 g	23%
+Saturated fat 6 g	30%
+Trans fat regulation 1.1 g	
+Cholesterol 90 mg	30%
+Sodium 72 mg	3%
+Potassium 318 mg	9%
+Total Carbohydrate 0 g	0%
+Dietary fiber 0 g	0%
+Sugar 0 g	
+Protein 26 g	52%
+Vitamin C	0%	Calcium	1%
+Iron	14%	Vitamin D	1%
+Vitamin B-6	20%	Cobalamin	43%
+Magnesium	5%	
+
