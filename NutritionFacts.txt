@@ -96,3 +96,23 @@ Vitamin C	0%	Calcium	8%
 Iron	6%	Vitamin D	1%
 Vitamin B-6	5%	Cobalamin	14%
 Magnesium	8%
+
+French Fries - Nutrition Facts
+
+Amount Per - 100g
+
+Calories 312
+Total Fat 15 g	23%
+Saturated fat 2.3 g	11%
+Trans fat regulation 0.1 g	
+Cholesterol 0 mg	0%
+Sodium 210 mg	8%
+Potassium 579 mg	16%
+Total Carbohydrate 41 g	13%
+Dietary fiber 3.8 g	15%
+Sugar 0.3 g	
+Protein 3.4 g	6%
+Vitamin C	7%	Calcium	1%
+Iron	4%	Vitamin D	0%
+Vitamin B-6	20%	Cobalamin	0%
+Magnesium	8%
