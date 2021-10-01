@@ -58,7 +58,6 @@ Iron	7%	Vitamin D	0%
 Vitamin B-6	20%	Cobalamin	5%
 Magnesium	5%	
 
-
 Pizza - 100g
 
 Calories 266
@@ -77,3 +76,23 @@ Vitamin C	2%	Calcium	18%
 Iron	13%	Vitamin D	0%
 Vitamin B-6	5%	Cobalamin	6%
 Magnesium	6%	
+
+Tacos - Nutrition Facts
+
+Amount Per - 100g
+
+Calories 226
+Total Fat 13 g	20%
+Saturated fat 4.4 g	22%
+Trans fat regulation 0.5 g	
+Cholesterol 28 mg	9%
+Sodium 397 mg	16%
+Potassium 209 mg	5%
+Total Carbohydrate 20 g	6%
+Dietary fiber 3.9 g	15%
+Sugar 0.9 g	
+Protein 9 g	18%
+Vitamin C	0%	Calcium	8%
+Iron	6%	Vitamin D	1%
+Vitamin B-6	5%	Cobalamin	14%
+Magnesium	8%
