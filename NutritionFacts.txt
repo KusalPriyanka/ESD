@@ -253,3 +253,23 @@ Vitamin C	9%	Calcium	3%
 Iron	1%	Vitamin D	0%
 Vitamin B-6	5%	Cobalamin	0%
 Magnesium	3%	
+
+
+Tomato - Nutrition Facts
+
+Amount Per 100 grams
+
+Calories 18
+Total Fat 0.2 g	0%
+Saturated fat 0 g	0%
+Cholesterol 0 mg	0%
+Sodium 5 mg	0%
+Potassium 237 mg	6%
+Total Carbohydrate 3.9 g	1%
+Dietary fiber 1.2 g	4%
+Sugar 2.6 g	
+Protein 0.9 g	1%
+Vitamin C	22%	Calcium	1%
+Iron	1%	Vitamin D	0%
+Vitamin B-6	5%	Cobalamin	0%
+Magnesium	2%
