@@ -294,3 +294,21 @@ Iron	14%	Vitamin D	1%
 Vitamin B-6	20%	Cobalamin	43%
 Magnesium	5%	
 
+Pumpkin - Nutrition Facts
+
+Amount Per 100 grams
+
+Calories 26
+Total Fat 0.1 g	0%
+Saturated fat 0.1 g	0%
+Cholesterol 0 mg	0%
+Sodium 1 mg	0%
+Potassium 340 mg	9%
+Total Carbohydrate 7 g	2%
+Dietary fiber 0.5 g	2%
+Sugar 2.8 g	
+Protein 1 g	2%
+Vitamin C	15%	Calcium	2%
+Iron	4%	Vitamin D	0%
+Vitamin B-6	5%	Cobalamin	0%
+Magnesium	3%	
